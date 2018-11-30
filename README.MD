@@ -4,4 +4,5 @@
 
 
 ##### Tutorial Documentation:
-##### [Word2VecRepresentation](https://github.com/rahulvaish/ReferenceDocuments/blob/master/QuickGuide%5BIMAGES%5D/MachineLearningQuickGuide%5BIMAGES%5D/Word2VecRepresentation.jpg)
+
+[Word2Vector Pictorial Representation](https://github.com/rahulvaish/ReferenceDocuments/blob/master/QuickGuide%5BIMAGES%5D/MachineLearningQuickGuide%5BIMAGES%5D/Word2VecRepresentation.jpg)
