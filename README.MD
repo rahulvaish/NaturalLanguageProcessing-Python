@@ -3,6 +3,6 @@
 ###### Gensim-Word2Vec - Observed unconsistant behaviour + The output is not expected.
 
 
-##### Reference Documentation:
+##### Reference Document:
 
 ##### [W2V Pictorial Representation](https://github.com/rahulvaish/ReferenceDocuments/blob/master/QuickGuide%5BIMAGES%5D/MachineLearningQuickGuide%5BIMAGES%5D/Word2VecRepresentation.jpg)
