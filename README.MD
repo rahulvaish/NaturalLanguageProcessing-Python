@@ -4,8 +4,6 @@
 ##### [2] [TextWrangling](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/TextWrangling) :  Understanding Text Cleaning and Basic Computations.
 ##### [3] [SpamDetection](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SpamDetection) : Example on Spam Detection.
 ##### [4] [SentimentAnalysis](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis) : Text Classification | Sentiment Analysis using Spacy, VADER and TextBlob. 
-![image](https://user-images.githubusercontent.com/689226/49731803-86b96a80-fca2-11e8-85ed-ed11a788149e.png)
+![image](https://user-images.githubusercontent.com/689226/49929163-d5a41180-fee7-11e8-86ae-6946e8af6ec2.png)
 ##### [5] [ChatterBot](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/ChatterBot) : Implementation of ChatBot using ChatterBot.
-![image](https://user-images.githubusercontent.com/689226/49731499-92586180-fca1-11e8-9fab-bfc0caa05462.png)
-
-
+![image](https://user-images.githubusercontent.com/689226/49929237-0f751800-fee8-11e8-8453-91d740757e6a.png)
