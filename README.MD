@@ -11,8 +11,7 @@
 
 
 - Install Gensim on Anaconda:
-![image](https://user-images.githubusercontent.com/689226/50121643-62035b00-027f-11e9-8c47-627adf13ddfb.png)
-
+![image](https://user-images.githubusercontent.com/689226/50122009-bbb85500-0280-11e9-926b-7510761bcff8.png)
 
 ##### [2] [TextWrangling](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/TextWrangling) :  Understanding Text Cleaning and Basic Computations.
 - Install Spacy.[Refer Above]
