@@ -35,4 +35,4 @@
 - Prepare Chatbot.
 - Start Training the Chatbot.
 - To Test the Chatbot's Learning and Responding capabilities, issue get_response method with your question.
-![image](https://user-images.githubusercontent.com/689226/49929237-0f751800-fee8-11e8-8453-91d740757e6a.png)
+![image](https://user-images.githubusercontent.com/689226/50122157-4b5e0380-0281-11e9-8505-346ed795bec2.png)
