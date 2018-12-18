@@ -1,14 +1,20 @@
 # **Branch Contents:**
 
 ##### [1] [Word-Vector](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/Word-Vector) : Implementation of Word-Vector using [1]Spacy and [2]Gensim 
-- Install Spacy on Anaconda:
+- ##### Word-Vector with Spacy:
+  * Install Spacy on Anaconda:
 ![image](https://user-images.githubusercontent.com/689226/50120718-83af1300-027c-11e9-85c1-7bacb4c129db.png)
 ![image](https://user-images.githubusercontent.com/689226/50121286-49df0c00-027e-11e9-9ab2-5a3e5875008b.png)
   * python -m spacy download en_core_web_sm
   * python -m spacy download en_core_web_md
   * python -m spacy download en_core_web_lg
-- Install Gensim on Anaconda:
+  * Compute similarity between all tokens
+  
+  
+ - ##### Word-Vector with Gensim:
+  * Install Gensim on Anaconda:
 ![image](https://user-images.githubusercontent.com/689226/50122009-bbb85500-0280-11e9-926b-7510761bcff8.png)
+  * 
 
 ##### [2] [TextWrangling](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/TextWrangling) :  Understanding Text Cleaning and Basic Computations.
 - Install Spacy on Anaconda [Refer Above]
