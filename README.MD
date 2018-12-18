@@ -7,14 +7,11 @@
   * python -m spacy download en_core_web_sm
   * python -m spacy download en_core_web_md
   * python -m spacy download en_core_web_lg
-
-
-
 - Install Gensim on Anaconda:
 ![image](https://user-images.githubusercontent.com/689226/50122009-bbb85500-0280-11e9-926b-7510761bcff8.png)
 
 ##### [2] [TextWrangling](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/TextWrangling) :  Understanding Text Cleaning and Basic Computations.
-- Install Spacy.[Refer Above]
+- Install Spacy on Anaconda [Refer Above]
 - Convert sentence into Lemma
 - Removal of Pronoun 
 - Removal of Stop Words
@@ -29,7 +26,37 @@
 
 ##### [3] [SpamDetection](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SpamDetection) : Example on Spam Detection.
 ##### [4] [SentimentAnalysis](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis) : Text Classification | Sentiment Analysis using Spacy, VADER and TextBlob. 
-![image](https://user-images.githubusercontent.com/689226/49929163-d5a41180-fee7-11e8-86ae-6946e8af6ec2.png)
+
+- ##### Text Classification | Sentiment Analysis with Spacy:
+  * Install Spacy on Anaconda [Refer Above]
+  * Clean Sentences
+  * Tokenize
+  * Vectorize
+  * Classify
+  * Predict the Sentiments.
+
+- ##### SentimentAnalysis with VADER:
+  * Install VADER on Anaconda
+  * VADER Sentiment Scale:
+  ![image](https://user-images.githubusercontent.com/689226/50122967-ddb3d680-0284-11e9-9a47-d59e8fdcb340.png)
+  * Effect of Punctuations on Sentiments.
+  * Effect of Spaces on Sentiments.
+  * Effect of TypeCases on Sentiments.
+  * Effect of TypeCases + Punctuations on Sentiments.
+  * Effect of Degree Modifiers (Adjectives) on Sentiments.
+  * Effect of Conjunctions on Sentiments.
+  * Effect of Emojis and Emoticons on Sentiments.
+  * Effect of Slangs on Sentiments.
+ 
+- ##### SentimentAnalysis with TextBlob:
+  * Install TextBlob on Anaconda 
+  * For each sentence, Textblobs returns Polarity and Subjectivity.
+  
+  **Polarity** is a float value within the range [-1.0 to 1.0] where 0 indicates neutral, +1 indicates a very positive sentiment and -1    represents a very negative sentiment.
+  **Subjectivity** is a float value within the range [0.0 to 1.0] where 0.0 is very objective and 1.0 is very subjective. Subjective  sentence expresses some personal feelings, views, beliefs, opinions, allegations, desires, beliefs, suspicions, and speculations where as Objective sentences are factual.
+![image](https://user-images.githubusercontent.com/689226/50123800-29b44a80-0288-11e9-88ff-1fded1de452e.png)
+
+
 ##### [5] [ChatterBot](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/ChatterBot) : Implementation of ChatBot using ChatterBot Library.
 - Install chatterbot library on Anaconda.
 - Prepare Chatbot.
