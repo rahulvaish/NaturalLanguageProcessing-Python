@@ -1,22 +1,22 @@
 # **Branch Contents:**
 
-##### [1] [Word-Vector](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/Word-Vector) : Implementation of Word-Vector using [1]Spacy and [2]Gensim 
+#### [1] [Word-Vector](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/Word-Vector) : Implementation of Word-Vector using Spacy and Gensim 
 - ##### Word-Vector with Spacy:
   * Install Spacy on Anaconda:
 ![image](https://user-images.githubusercontent.com/689226/50120718-83af1300-027c-11e9-85c1-7bacb4c129db.png)
 ![image](https://user-images.githubusercontent.com/689226/50121286-49df0c00-027e-11e9-9ab2-5a3e5875008b.png)
-  * python -m spacy download en_core_web_sm
-  * python -m spacy download en_core_web_md
-  * python -m spacy download en_core_web_lg
+![image](https://user-images.githubusercontent.com/689226/50174045-228c4b80-031f-11e9-9546-c189b7f0acf8.png)
   * Compute similarity between all tokens
   
   
  - ##### Word-Vector with Gensim:
    * Install Gensim on Anaconda:
 ![image](https://user-images.githubusercontent.com/689226/50122009-bbb85500-0280-11e9-926b-7510761bcff8.png)
-  * 
+  
 
-##### [2] [TextWrangling](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/TextWrangling) :  Understanding Text Cleaning and Basic Computations.
+<hr>
+
+#### [2] [TextWrangling](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/TextWrangling) :  Understanding Text Cleaning and Basic Computations.
 - Install Spacy on Anaconda [Refer Above]
 - Convert sentence into Lemma
 - Removal of Pronoun 
@@ -30,8 +30,13 @@
 - TF-IDF (Sentences)
 - TF-IDF (File)
 
-##### [3] [SpamDetection](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SpamDetection) : Example on Spam Detection.
-##### [4] [SentimentAnalysis](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis) : Text Classification | Sentiment Analysis using Spacy, VADER and TextBlob. 
+<hr>
+
+#### [3] [SpamDetection](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SpamDetection) : Example on Spam Detection.
+
+<hr>
+
+#### [4] [SentimentAnalysis](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis) : Text Classification | Sentiment Analysis using Spacy, VADER and TextBlob. 
 
 - ##### Text Classification | Sentiment Analysis with Spacy:
   * Install Spacy on Anaconda [Refer Above]
@@ -56,14 +61,15 @@
  
 - ##### SentimentAnalysis with TextBlob:
   * Install TextBlob on Anaconda 
-  * For each sentence, Textblobs returns Polarity and Subjectivity.
-  
-  **Polarity** is a float value within the range [-1.0 to 1.0] where 0 indicates neutral, +1 indicates a very positive sentiment and -1    represents a very negative sentiment.
-  **Subjectivity** is a float value within the range [0.0 to 1.0] where 0.0 is very objective and 1.0 is very subjective. Subjective  sentence expresses some personal feelings, views, beliefs, opinions, allegations, desires, beliefs, suspicions, and speculations where as Objective sentences are factual.
+  * For each sentence, Textblobs returns Polarity and Subjectivity.  
+  * **Polarity** is a float value within the range [-1.0 to 1.0] where 0 indicates neutral, +1 indicates a very positive sentiment and -1    represents a very negative sentiment.
+   * **Subjectivity** is a float value within the range [0.0 to 1.0] where 0.0 is very objective and 1.0 is very subjective. Subjective  sentence expresses some personal feelings, views, beliefs, opinions, allegations, desires, beliefs, suspicions, and speculations where as Objective sentences are factual.
 ![image](https://user-images.githubusercontent.com/689226/50123800-29b44a80-0288-11e9-88ff-1fded1de452e.png)
 
 
-##### [5] [ChatterBot](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/ChatterBot) : Implementation of ChatBot using ChatterBot Library.
+<hr>
+
+#### [5] [ChatterBot](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/ChatterBot) : Implementation of ChatBot using ChatterBot Library.
 - Install chatterbot library on Anaconda.
 - Prepare Chatbot.
 - Start Training the Chatbot.
