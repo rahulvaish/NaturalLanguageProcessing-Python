@@ -13,3 +13,13 @@ This repository contains self-contained NLP examples.
 ![image](https://user-images.githubusercontent.com/689226/50174045-228c4b80-031f-11e9-9546-c189b7f0acf8.png)
  * Computes similarity among all tokens' combinations
  
+
+
+### Table of Contents
+  - <a href='#movie-recommender-using-imdb-calculation'>Movie Recommender-IMDB Calculation</a> 
+  - <a href='#movie-recommender-using-parameter-filtering'>Movie Recommender-Parameter Filtering</a> 
+  - <a href='#movie-recommender-using-collaborative-filtering'>Movie Recommender-Collaborative Filtering</a> 
+  
+<hr>
+ 
+- ###### [Movie Recommender using IMDB Calculation:](https://github.com/rahulvaish/RecommendationSystems-Python/blob/RecommendationSystems/MovieRecommender-IMDB.ipynb)
