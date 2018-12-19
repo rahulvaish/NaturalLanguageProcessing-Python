@@ -52,7 +52,7 @@ This repository contains self-contained NLP examples.
 
 <hr>
 
-- ###### [Text Classification and Sentiment Analysis using Spacy:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/Spacy-TextClassification-SentimentAnalysis)
+- ###### [Sentiment Analysis Spacy:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/Spacy-TextClassification-SentimentAnalysis)
    * Install Spacy on Anaconda [Refer Above]
    * Clean Sentences
    * Tokenize
@@ -62,7 +62,7 @@ This repository contains self-contained NLP examples.
 
 <hr>
 
-- ###### [Sentiment Analysis using VADER:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/VADER-SentimentAnalysis)
+- ###### [Sentiment Analysis VADER:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/VADER-SentimentAnalysis)
    * Install VADER on Anaconda
    * VADER Sentiment Scale:
   ![image](https://user-images.githubusercontent.com/689226/50122967-ddb3d680-0284-11e9-9a47-d59e8fdcb340.png)
@@ -77,7 +77,7 @@ This repository contains self-contained NLP examples.
 
 <hr>
 
-- ###### [Sentiment Analysis using TextBlob:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/TextBlob-SentimentAnalysis)
+- ###### [Sentiment Analysis TextBlob:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/TextBlob-SentimentAnalysis)
    * Install TextBlob on Anaconda 
    * For each sentence, Textblobs returns Polarity and Subjectivity.  
    * **Polarity** is a float value within the range [-1.0 to 1.0] where 0 indicates neutral, +1 indicates a very positive sentiment and -1    represents a very negative sentiment.
