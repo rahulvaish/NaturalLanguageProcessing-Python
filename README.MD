@@ -6,14 +6,14 @@
 ![image](https://user-images.githubusercontent.com/689226/50120718-83af1300-027c-11e9-85c1-7bacb4c129db.png)
 ![image](https://user-images.githubusercontent.com/689226/50121286-49df0c00-027e-11e9-9ab2-5a3e5875008b.png)
 ![image](https://user-images.githubusercontent.com/689226/50174045-228c4b80-031f-11e9-9546-c189b7f0acf8.png)
-  * Compute similarity between all tokens
+  * Computes similarity among all tokens' combinations
   
   
  - ###### Word-Vector using Gensim:
    * Install Gensim on Anaconda:
 ![image](https://user-images.githubusercontent.com/689226/50122009-bbb85500-0280-11e9-926b-7510761bcff8.png)
+   * Compute similarity between all tokens
   
-
 <hr>
 
 #### [2] [TextWrangling](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/TextWrangling) :  Understanding Text Cleaning and Basic Computations.
