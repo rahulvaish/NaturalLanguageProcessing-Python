@@ -2,8 +2,8 @@ This repository contains self-contained NLP examples.
 
 ### Table of Contents
 - <a href='#word-vector'>Word-Vector</a> 
-  - <a href='#word-vector-spacy'>WordVector-Spacy</a> 
-  - <a href='#word-vector-gensim'>WordVector-Gensim</a> 
+- <a href='#word-vector-spacy'>WordVector-Spacy</a> 
+- <a href='#word-vector-gensim'>WordVector-Gensim</a> 
 - <a href='#text-wrangling'>TextWrangling</a> 
 - <a href='#spam-detection'>SpamDetection</a> 
 - <a href='#sentiment-analysis'>SentimentAnalysis</a>
@@ -14,7 +14,7 @@ This repository contains self-contained NLP examples.
   
 <hr>
 
-- ###### [Word Vector using Spacy:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/blob/Word-Vector/Spacy-Word2Vec.ipynb)
+- ###### [WordVector-Spacy:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/blob/Word-Vector/Spacy-Word2Vec.ipynb)
   * Install Spacy on Anaconda:
 
 
