@@ -14,4 +14,4 @@ This repository contains self-contained NLP examples.
 
 ## Warm-up: numpy
 
-###### WordVector-Spacy
+###### Word Vector Spacy
