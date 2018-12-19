@@ -14,6 +14,4 @@ This repository contains self-contained NLP examples.
 
 ## Warm-up: numpy
 
-
-- ###### [WordVector-Spacy:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/blob/Word-Vector/Spacy-Word2Vec.ipynb)
-  * Install Spacy on Anaconda:
+###### WordVector-Spacy
