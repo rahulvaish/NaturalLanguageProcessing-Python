@@ -48,7 +48,7 @@ This repository contains self-contained NLP examples.
 
 <hr>
 
-- ###### [SpamDetection](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SpamDetection) 
+- ###### [Spam Detection](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SpamDetection) 
 
 <hr>
 
