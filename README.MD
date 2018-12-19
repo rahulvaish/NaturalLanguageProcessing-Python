@@ -19,7 +19,7 @@ This repository contains self-contained NLP examples.
     
  <hr>
  
-- ###### [Word Vector Spacy :](https://github.com/rahulvaish/RecommendationSystems-Python/blob/RecommendationSystems/MovieRecommender-IMDB.ipynb)
+- ###### [Word Vector Spacy:](https://github.com/rahulvaish/RecommendationSystems-Python/blob/RecommendationSystems/MovieRecommender-IMDB.ipynb)
   * Load the Dataset [movies_metadata.csv]
   * Apply IMDB Formula
   ![image](https://user-images.githubusercontent.com/689226/50198368-53956c00-0371-11e9-9fc4-e5c082c351af.png)
