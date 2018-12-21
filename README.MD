@@ -49,7 +49,17 @@ This repository contains self-contained NLP examples.
 <hr>
 
 - ###### [Spam Detection](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SpamDetection) 
-
+   * Load the data [spam.csv]
+   * Removal of unwanted columns
+   * Break the complete dataset into data(for training and validation) + untouched data
+   * Replacing Categorical Feature into Numerical Feature
+   * Split the data(for training and validation) as train_X, test_X, train_Y, test_
+   * Apply CountVectorizer on train_X
+   * Apply CountVectorizer on test_X
+   * Apply ML Modeling with MultinomialNB
+   * Make Predictions. 
+   
+   
 <hr>
 
 - ###### [Sentiment Analysis Spacy:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/Spacy-TextClassification-SentimentAnalysis)
