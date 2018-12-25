@@ -16,6 +16,7 @@ This repository contains self-contained NLP examples.
  
 
 - ###### [Word Vector Spacy:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/blob/Word-Vector/Spacy-Word2Vec.ipynb)
+   ###### This example is implementation od Word to Vector using Spacy Library. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/blob/Word-Vector/Spacy-Word2Vec.ipynb)  
   * Install Spacy on Anaconda:
 ![image](https://user-images.githubusercontent.com/689226/50120718-83af1300-027c-11e9-85c1-7bacb4c129db.png)
 ![image](https://user-images.githubusercontent.com/689226/50121286-49df0c00-027e-11e9-9ab2-5a3e5875008b.png)
@@ -26,6 +27,7 @@ This repository contains self-contained NLP examples.
 <hr> 
   
 - ###### [Word Vector Gensim:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/blob/Word-Vector/Gensim-Word2Vec.ipynb)
+   ###### This example is implementation od Word to Vector using Gensim Library. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/blob/Word-Vector/Gensim-Word2Vec.ipynb)
   * Install Gensim on Anaconda:
 ![image](https://user-images.githubusercontent.com/689226/50122009-bbb85500-0280-11e9-926b-7510761bcff8.png)
   * Compute similarity between all tokens
@@ -33,6 +35,7 @@ This repository contains self-contained NLP examples.
 <hr>
 
 - ###### [Text Wrangling:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/TextWrangling)
+   ###### This example illustrates various processes involved during Text Cleaning. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/TextWrangling)
   * Install Spacy on Anaconda [Refer Above]
   * Convert sentence into Lemma
   * Removal of Pronoun 
@@ -49,6 +52,7 @@ This repository contains self-contained NLP examples.
 <hr>
 
 - ###### [Spam Detection](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SpamDetection) 
+   ###### This example is an analysis on SMS Spam Predction. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SpamDetection)
    * Load the data [spam.csv]
    * Removal of unwanted columns
    * Break the complete dataset into data(for training and validation) + untouched data
@@ -63,6 +67,7 @@ This repository contains self-contained NLP examples.
 <hr>
 
 - ###### [Sentiment Analysis Spacy:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/Spacy-TextClassification-SentimentAnalysis)
+   ###### This example demonstrates Sentiment Analysis using Spacy Library. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/Spacy-TextClassification-SentimentAnalysis)
    * Install Spacy on Anaconda [Refer Above]
    * Clean Sentences
    * Tokenize
@@ -73,6 +78,7 @@ This repository contains self-contained NLP examples.
 <hr>
 
 - ###### [Sentiment Analysis VADER:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/VADER-SentimentAnalysis)
+   ###### This example demonstrates Sentiment Analysis using VADER Library. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/VADER-SentimentAnalysis)
    * Install VADER on Anaconda
    * VADER Sentiment Scale:
   ![image](https://user-images.githubusercontent.com/689226/50122967-ddb3d680-0284-11e9-9a47-d59e8fdcb340.png)
@@ -88,6 +94,7 @@ This repository contains self-contained NLP examples.
 <hr>
 
 - ###### [Sentiment Analysis TextBlob:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/TextBlob-SentimentAnalysis)
+   ###### This example demonstrates Sentiment Analysis using TextBlob Library. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/TextBlob-SentimentAnalysis)
    * Install TextBlob on Anaconda 
    * For each sentence, Textblobs returns Polarity and Subjectivity.  
    * **Polarity** is a float value within the range [-1.0 to 1.0] where 0 indicates neutral, +1 indicates a very positive sentiment and -1    represents a very negative sentiment.
@@ -98,6 +105,7 @@ This repository contains self-contained NLP examples.
 <hr>
 
 - ###### [ChatBot:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/ChatBot)
+   ###### This example encapsulates ChatBot implementation using ChatterBot Library. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/ChatBot)
    * Install chatterbot library on Anaconda.
    * Prepare Chatbot.
    * Start Training the Chatbot.
