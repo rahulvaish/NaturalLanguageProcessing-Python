@@ -16,7 +16,7 @@ This repository contains self-contained NLP examples.
  
 
 - ###### [Word Vector Spacy:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/blob/Word-Vector/Spacy-Word2Vec.ipynb)
-   ###### This example is implementation od Word to Vector using Spacy Library. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/blob/Word-Vector/Spacy-Word2Vec.ipynb)  
+   ###### This example is an implementation of Word to Vector concept using Spacy Library. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/blob/Word-Vector/Spacy-Word2Vec.ipynb)  
   * Install Spacy on Anaconda:
 ![image](https://user-images.githubusercontent.com/689226/50120718-83af1300-027c-11e9-85c1-7bacb4c129db.png)
 ![image](https://user-images.githubusercontent.com/689226/50121286-49df0c00-027e-11e9-9ab2-5a3e5875008b.png)
@@ -27,7 +27,7 @@ This repository contains self-contained NLP examples.
 <hr> 
   
 - ###### [Word Vector Gensim:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/blob/Word-Vector/Gensim-Word2Vec.ipynb)
-   ###### This example is implementation od Word to Vector using Gensim Library. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/blob/Word-Vector/Gensim-Word2Vec.ipynb)
+   ###### This example is an implementation of Word to Vector concept using Gensim Library. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/blob/Word-Vector/Gensim-Word2Vec.ipynb)
   * Install Gensim on Anaconda:
 ![image](https://user-images.githubusercontent.com/689226/50122009-bbb85500-0280-11e9-926b-7510761bcff8.png)
   * Compute similarity between all tokens
