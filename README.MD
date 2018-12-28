@@ -44,8 +44,8 @@ This repository contains self-contained NLP examples.
   * Selecting Nouns
   * Word count and Frequency
   * Converting into Text -> List of Sentences -> List of Clean Sentences
-  * Bag Of Words (Sentences)
-  * Bag Of Words (File)
+  * BagOfWords/CountVectorizer/Sparse (Sentences)
+  * BagOfWords/CountVectorizer/Sparse (File)
   * TF-IDF (Sentences)
   * TF-IDF (File)
 
@@ -58,8 +58,8 @@ This repository contains self-contained NLP examples.
    * Break the complete dataset into data(for training and validation) + untouched data
    * Replacing Categorical Feature into Numerical Feature
    * Split the data(for training and validation) as train_X, test_X, train_Y, test_
-   * Apply CountVectorizer on train_X
-   * Apply CountVectorizer on test_X
+   * Apply CountVectorizer/Sparse on train_X
+   * Apply CountVectorizer/Sparse on test_X
    * Apply ML Modeling with MultinomialNB
    * Make Predictions. 
    
