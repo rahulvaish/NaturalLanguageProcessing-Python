@@ -69,6 +69,7 @@ This repository contains self-contained NLP examples.
 - ###### [Sentiment Analysis Spacy:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/Spacy-TextClassification-SentimentAnalysis)
    ###### This example demonstrates Sentiment Analysis by Text Classification using Spacy Library. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/Spacy-TextClassification-SentimentAnalysis)
    * Install Spacy on Anaconda [Refer Above]
+   * Load the data-Yelp+IMDB+Amazon[sentimentdataset.csv]
    * Clean Sentences
    * Tokenize
    * Vectorize
