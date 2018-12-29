@@ -4,8 +4,9 @@ This repository contains self-contained NLP examples.
 - <a href='#word-vector'>Word-Vector</a> 
   - <a href='#word-vector-spacy'>WordVector-Spacy</a> 
   - <a href='#word-vector-gensim'>WordVector-Gensim</a> 
-- <a href='#text-wrangling'>TextWrangling</a> 
-- <a href='#spam-detection'>SpamDetection</a> 
+- <a href='#text-wrangling'>Text Wrangling</a> 
+- <a href='#text-classification>Text Classification</a>
+- <a href='#spam-detection'>Spam Detection</a> 
 - <a href='#sentiment-analysis'>Sentiment Analysis</a>
   - <a href='#sentiment-analysis-spacy'>SentimentAnalysis-Spacy</a>
   - <a href='#sentiment-analysis-vader'>SentimentAnalysis-VADER</a>
@@ -44,10 +45,26 @@ This repository contains self-contained NLP examples.
   * Selecting Nouns
   * Word count and Frequency
   * Converting into Text -> List of Sentences -> List of Clean Sentences
-  * BagOfWords/CountVectorizer/Sparse (Sentences)
-  * BagOfWords/CountVectorizer/Sparse (File)
-  * TF-IDF (Sentences)
-  * TF-IDF (File)
+  * BagOfWords/CountVectorizer/Sparse on Sentences
+  * BagOfWords/CountVectorizer/Sparse on File
+  * TF-IDF (Vectorizer) on Sentences
+  * TF-IDF (Vectorizer) on File
+
+<hr>
+
+- ###### [Text Classification](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/TextClassification) 
+   ###### This example exemplify Text Classification using TF-IDF. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/TextClassification)
+   * Load the data [Consumer_Complaints.csv]
+   * Select desired Columns
+   * Removal of unwanted rows
+   * Clean and Prepare Data
+   * Split Dataframe as (Train+Test) </br>
+   ![image](https://user-images.githubusercontent.com/689226/50539512-7d3b6800-0ba7-11e9-8cfe-52646d7d3bad.png)
+   * Apply CountVectorizer
+   * Apply TF-IDF (Transformer)
+   * Apply ML Modeling with MultinomialNB
+   * Make Predictions
+
 
 <hr>
 
@@ -57,11 +74,12 @@ This repository contains self-contained NLP examples.
    * Removal of unwanted columns
    * Break the complete dataset into data(for training and validation) + untouched data
    * Replacing Categorical Feature into Numerical Feature
-   * Split the data(for training and validation) as train_X, test_X, train_Y, test_
+   * Split Dataframe as (Train+Test)
+     Refer above for (Train+Test) pictorial representation
    * Apply CountVectorizer/Sparse on train_X
    * Apply CountVectorizer/Sparse on test_X
    * Apply ML Modeling with MultinomialNB
-   * Make Predictions. 
+   * Make Predictions
    
    
 <hr>
@@ -80,6 +98,7 @@ This repository contains self-contained NLP examples.
 
 - ###### [Sentiment Analysis VADER:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/VADER-SentimentAnalysis)
    ###### This example demonstrates Sentiment Analysis using VADER Library. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/VADER-SentimentAnalysis)
+   ######  VADER(Valence Aware Dictionary and sEntiment Reasoner) is a Lexicon and rule-based sentiment analysis library. It includes sentiment from emoticons (e.g, :-)), sentiment-related acronyms (e.g, LOL) and slang (e.g, meh). 
    * Install VADER on Anaconda
    * VADER Sentiment Scale:
   ![image](https://user-images.githubusercontent.com/689226/50122967-ddb3d680-0284-11e9-9a47-d59e8fdcb340.png)
