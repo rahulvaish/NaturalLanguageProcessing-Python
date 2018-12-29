@@ -5,7 +5,7 @@ This repository contains self-contained NLP examples.
   - <a href='#word-vector-spacy'>WordVector-Spacy</a> 
   - <a href='#word-vector-gensim'>WordVector-Gensim</a> 
 - <a href='#text-wrangling'>Text Wrangling</a> 
-- <a href='#text-classification>Text Classification</a>
+- <a href='#text-classification'>Text Classification</a>
 - <a href='#spam-detection'>Spam Detection</a> 
 - <a href='#sentiment-analysis'>Sentiment Analysis</a>
   - <a href='#sentiment-analysis-spacy'>SentimentAnalysis-Spacy</a>
