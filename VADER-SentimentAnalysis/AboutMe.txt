@@ -1,3 +1,0 @@
-VADER = (Valence Aware Dictionary and sEntiment Reasoner) 
-VADER = Lexicon and rule-based sentiment analysis library.
-VADER = Includes sentiment from emoticons (e.g, :-)), sentiment-related acronyms (e.g, LOL) and slang (e.g, meh). 
