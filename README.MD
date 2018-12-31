@@ -18,7 +18,7 @@ This repository contains self-contained NLP examples.
 
 - ###### [Word Vector Spacy:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/blob/Word-Vector/Spacy-Word2Vec.ipynb)
    ###### This example is an implementation of Word to Vector concept using Spacy Library. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/blob/Word-Vector/Spacy-Word2Vec.ipynb)  
-  * Install Spacy on Anaconda:
+  * Install Spacy on Anaconda[Administrator Mode]:
 ![image](https://user-images.githubusercontent.com/689226/50120718-83af1300-027c-11e9-85c1-7bacb4c129db.png)
 ![image](https://user-images.githubusercontent.com/689226/50121286-49df0c00-027e-11e9-9ab2-5a3e5875008b.png)
 ![image](https://user-images.githubusercontent.com/689226/50174045-228c4b80-031f-11e9-9546-c189b7f0acf8.png)
@@ -37,7 +37,7 @@ This repository contains self-contained NLP examples.
 
 - ###### [Text Wrangling:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/TextWrangling)
    ###### This example illustrates various processes involved during Text Cleaning. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/TextWrangling)
-  * Install Spacy on Anaconda [Refer Above]
+  * Install Spacy on Anaconda [Refer Above](#word-vector-spacy)
   * Convert sentence into Lemma
   * Removal of Pronoun 
   * Removal of Stop Words
@@ -86,7 +86,7 @@ This repository contains self-contained NLP examples.
 
 - ###### [Sentiment Analysis Spacy:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/Spacy-TextClassification-SentimentAnalysis)
    ###### This example demonstrates Sentiment Analysis by Text Classification using Spacy Library. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/Spacy-TextClassification-SentimentAnalysis)
-   * Install Spacy on Anaconda [Refer Above]
+   * Install Spacy on Anaconda [Refer Above](#word-vector-spacy)
    * Load the data-Yelp+IMDB+Amazon[sentimentdataset.csv]
    * Clean Sentences
    * Tokenize
