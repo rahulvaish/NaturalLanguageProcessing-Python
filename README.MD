@@ -11,7 +11,7 @@ This repository contains self-contained NLP examples.
   - <a href='#sentiment-analysis-spacy'>SentimentAnalysis-Spacy</a>
   - <a href='#sentiment-analysis-vader'>SentimentAnalysis-VADER</a>
   - <a href='#sentiment-analysis-textblob'>SentimentAnalysis-TextBlob</a>
-  - <a href='#sentiment-analysis-azure-cognitive-services'>SentimentAnalysis-AzureCognitiveServices</a>
+  - <a href='#sentiment-analysis-using-azure-cognitive-services'>SentimentAnalysis-AzureCognitiveServices</a>
 - <a href='#chatbot'>ChatBot</a>  
   
 <hr>
@@ -125,7 +125,7 @@ This repository contains self-contained NLP examples.
 
 <hr>
 
-- ###### [Sentiment Analysis Azure Cognitive Services:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/AzureCognitiveServices-SentimentAnalysis)
+- ###### [Sentiment Analysis using Azure Cognitive Services:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/AzureCognitiveServices-SentimentAnalysis)
    ###### This example in JAVA demonstrates Sentiment Analysis using Microsoft Azure Cognitive Services. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/AzureCognitiveServices-SentimentAnalysis)
    * Login into Azure Account.
    * Navigate till All Resources -> Text Analytics -> Create a Resource. </br>
