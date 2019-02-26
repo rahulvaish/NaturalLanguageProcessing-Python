@@ -11,6 +11,7 @@ This repository contains self-contained NLP examples.
   - <a href='#sentiment-analysis-spacy'>SentimentAnalysis-Spacy</a>
   - <a href='#sentiment-analysis-vader'>SentimentAnalysis-VADER</a>
   - <a href='#sentiment-analysis-textblob'>SentimentAnalysis-TextBlob</a>
+  - <a href='#sentiment-analysis-azure-cognitive-services'>SentimentAnalysis-AzureCognitiveServices</a>
 - <a href='#chatbot'>ChatBot</a>  
   
 <hr>
@@ -121,6 +122,22 @@ This repository contains self-contained NLP examples.
    * **Subjectivity** is a float value within the range [0.0 to 1.0] where 0.0 is very objective and 1.0 is very subjective. Subjective  sentence expresses some personal feelings, views, beliefs, opinions, allegations, desires, beliefs, suspicions, and speculations where as Objective sentences are factual.
   ![image](https://user-images.githubusercontent.com/689226/50123800-29b44a80-0288-11e9-88ff-1fded1de452e.png)
 
+
+<hr>
+
+- ###### [Sentiment Analysis Azure Cognitive Services:](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/AzureCognitiveServices-SentimentAnalysis)
+   ###### This example in JAVA demonstrates Sentiment Analysis using Microsoft Azure Cognitive Services. [[Source Code]](https://github.com/rahulvaish/NaturalLanguageProcessing-Python/tree/SentimentAnalysis/AzureCognitiveServices-SentimentAnalysis)
+   * Login into Azure Account.
+   * Navigate till All Resources -> Text Analytics -> Create a Resource. </br>
+    ![image](https://user-images.githubusercontent.com/689226/53398131-e1738000-39ce-11e9-99a0-13292017742b.png) </br>
+    ![image](https://user-images.githubusercontent.com/689226/53398135-e3d5da00-39ce-11e9-8f11-2f6ea49d5f45.png) </br>
+    ![image](https://user-images.githubusercontent.com/689226/53398140-e6d0ca80-39ce-11e9-9322-f0463033a73f.png) </br>
+    ![image](https://user-images.githubusercontent.com/689226/53398146-ea645180-39ce-11e9-9295-dc9b9725169d.png) </br>
+    Now use the Endpoint and keys in your application for request and response :)  </br>
+    ![image](https://user-images.githubusercontent.com/689226/53398152-edf7d880-39ce-11e9-9357-cd22716df327.png) </br>
+    For positive 0.99 is the score </br>
+    ![image](https://user-images.githubusercontent.com/689226/53398163-f51ee680-39ce-11e9-9b9b-de77a73e5e03.png) </br>
+    For negative 0.003 is the score. </br>
 
 <hr>
 
