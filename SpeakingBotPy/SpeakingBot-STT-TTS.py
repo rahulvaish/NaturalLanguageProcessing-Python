@@ -1,5 +1,4 @@
-#
-
+#===================UBUNTU========================
 # sudo apt-get update
 # sudo apt update
 # sudo apt install python3-pip
@@ -9,10 +8,17 @@
 # python3 -m spacy download en
 # sudo apt-get update && sudo apt-get install espeak
 # sudo apt install libespeak1
-# sudo apt install python3-pyaudio
+# sudo apt install python3-pyaudio 
 # sudo apt install jackd2
 # sudo apt install qjackctl
 
+#================WIN|ANACONDA=====================
+# pip3 install pywin32
+# pip3 install pyttsx3
+# pip3 install chatterbot
+# pip3 install SpeechRecognition
+# python3 -m spacy download en
+# pip3 install pyaudio
 
 
 
