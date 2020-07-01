@@ -10,6 +10,17 @@
 # pip3 install PyAudio
 # sudo apt-get update && sudo apt-get install espeak
 # sudo apt install libespeak1
+#----- WAYS TO INSTALL PYAUDIO ----
+#sudo apt-get install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0
+#sudo apt-get install ffmpeg libav-tools
+#sudo pip3 install pyaudio
+
+
+#sudo apt-get install portaudio19-dev python-pyaudio
+#pip3 install PyAudio
+#----------------------------------
+
+
 
 import pyttsx3
 import configparser
