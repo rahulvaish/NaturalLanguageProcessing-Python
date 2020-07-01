@@ -9,17 +9,10 @@
 # python3 -m spacy download en
 # sudo apt-get update && sudo apt-get install espeak
 # sudo apt install libespeak1
-#----- WAYS TO INSTALL PYAUDIO ----
+# sudo apt install python3-pyaudio
+# sudo apt install jackd2
+# sudo apt install qjackctl
 
-#sudo apt-get install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0
-#sudo apt-get install ffmpeg libav-tools
-#sudo pip3 install pyaudio
-
-
-#sudo apt-get install portaudio19-dev python-pyaudio
-#pip3 install PyAudio
-
-#----------------------------------
 
 
 
